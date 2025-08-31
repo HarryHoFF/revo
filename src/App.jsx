@@ -36,9 +36,9 @@ function App() {
     { id: 11, merchant: 'McDonald\'s', amount: -78.50, date: '2025-08-25', category: 'Food', type: 'card' },
     { id: 12, merchant: 'Fleggaard', amount: -189.75, date: '2025-08-24', category: 'Shopping', type: 'card' },
     { id: 13, merchant: 'Edeka', amount: -156.40, date: '2025-08-24', category: 'Shopping', type: 'card' },
+    { id: 16, merchant: 'Haderslev Kommune', amount: +1250.00, date: '2025-08-21', category: 'Income', type: 'pension' },
     { id: 14, merchant: 'Føtex', amount: -755.60, date: '2025-08-18', category: 'Groceries', type: 'card' },
-    { id: 15, merchant: 'Carbis', amount: +35000.00, date: '2025-08-02', category: 'Income', type: 'salary' },
-    { id: 16, merchant: 'Pensionskasse', amount: +1250.00, date: '2025-08-01', category: 'Income', type: 'pension' },
+    { id: 15, merchant: 'Gastro-Food', amount: +16700.00, date: '2025-08-18', category: 'Income', type: 'salary' },
   ]
 
   // Account transactions for different accounts
