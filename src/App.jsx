@@ -280,8 +280,8 @@ function App() {
           <div className="total-balance">kr 6.960.90</div>
           <div className="balance-change positive">
             <span>↗</span>
-            <span className="change-amount">+kr 2,456.78</span>
-            <span className="change-percentage">(+0.95%)</span>
+            <span className="change-amount">+kr 10,456.78</span>
+            <span className="change-percentage">(-59.95%)</span>
             <span className="change-period">today</span>
           </div>
         </div>
