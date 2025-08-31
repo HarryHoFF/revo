@@ -22,7 +22,7 @@ function App() {
 
   // Danish transactions with 48 entries
   const transactions = [
-    { id: 17, merchant: 'Ines Ehlerts', amount: -9700.00, date: '2025-08-30', category: 'Transfer', type: 'transfer' },
+    { id: 17, merchant: 'Ines Ehlerts', amount: -9700.00, date: '2025-08-31', category: 'Transfer', type: 'transfer' },
     { id: 1, merchant: 'Lidl', amount: -213.30, date: '2025-08-30', category: 'Shopping', type: 'card' },
     { id: 2, merchant: 'Netto', amount: -100.59, date: '2025-08-29', category: 'Shopping', type: 'card' },
     { id: 3, merchant: 'Spar', amount: -100.80, date: '2025-08-29', category: 'Shopping', type: 'card' },
