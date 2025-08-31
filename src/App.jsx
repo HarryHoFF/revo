@@ -575,12 +575,12 @@ function App() {
       <div className="activity-summary">
         <div className="summary-card">
           <h4>Total Income</h4>
-          <div className="summary-amount positive">+kr 38,750</div>
+          <div className="summary-amount positive">+kr 16,750</div>
           <p>This month</p>
         </div>
         <div className="summary-card">
           <h4>Total Expenses</h4>
-          <div className="summary-amount negative">-kr 15,234</div>
+          <div className="summary-amount negative">-kr 14,234</div>
           <p>This month</p>
         </div>
       </div>
