@@ -39,7 +39,7 @@ function App() {
     { id: 16, merchant: 'Haderslev Kommune', amount: +7220.00, date: '2025-08-21', category: 'Income', type: 'transfer' },
     { id: 14, merchant: 'Føtex', amount: -755.60, date: '2025-08-18', category: 'Groceries', type: 'card' },
     { id: 15, merchant: 'Gastro-Food', amount: +9530.00, date: '2025-08-18', category: 'Income', type: 'salary' },
-    { id: 15, merchant: 'NemTransfer', amount: +9530.00, date: '2025-08-17', category: 'Income', type: 'transfer' },
+    { id: 28, merchant: 'NemTransfer', amount: +9530.00, date: '2025-08-17', category: 'Income', type: 'transfer' },
   ]
 
   // Account transactions for different accounts
