@@ -22,6 +22,7 @@ function App() {
 
   // Danish transactions with 48 entries
   const transactions = [
+    { id: 3, merchant: 'Spar', amount: -86.60, date: '2025-09-04', category: 'Shopping', type: 'card' },
     { id: 15, merchant: 'Ines Ehlerts', amount: -9700.00, date: '2025-09-04', category: 'Transfer', type: 'transfer' },
     { id: 15, merchant: 'Ines Ehlerts', amount: +9700.00, date: '2025-09-04', category: 'Transfer', type: 'transfer' },
     { id: 1, merchant: 'REMA 1000', amount: -158.30, date: '2025-09-04', category: 'Shopping', type: 'card' },
