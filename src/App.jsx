@@ -63,7 +63,7 @@ function App() {
   }
 
   const accounts = [
-    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6.732,63, icon: '💳' }
+    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6732.63, icon: '💳' }
   ]
 
   const handleTransactionClick = (transaction) => {
