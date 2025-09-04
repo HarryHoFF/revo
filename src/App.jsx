@@ -63,7 +63,7 @@ function App() {
   }
 
   const accounts = [
-    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6960.90, icon: '💳' }
+    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6.732,63, icon: '💳' }
   ]
 
   const handleTransactionClick = (transaction) => {
@@ -282,7 +282,7 @@ function App() {
         </div>
         
         <div className="balance-section">
-          <div className="total-balance">kr 6.832.56</div>
+          <div className="total-balance">kr 6.732,63</div>
           <div className="balance-change positive">
             <span></span>
             <span className="change-amount"></span>
