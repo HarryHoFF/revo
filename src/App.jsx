@@ -22,7 +22,6 @@ function App() {
 
   // Danish transactions with 48 entries
   const transactions = [
-    { id: 3, merchant: 'Spar', amount: -86.60, date: '2025-09-04', category: 'Shopping', type: 'card' },
     { id: 15, merchant: 'Ines Ehlerts', amount: -9700.00, date: '2025-09-04', category: 'Transfer', type: 'transfer' },
     { id: 15, merchant: 'Ines Ehlerts', amount: +9700.00, date: '2025-09-04', category: 'Transfer', type: 'transfer' },
     { id: 1, merchant: 'REMA 1000', amount: -158.30, date: '2025-09-04', category: 'Shopping', type: 'card' },
@@ -63,7 +62,7 @@ function App() {
   }
 
   const accounts = [
-    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6732.63, icon: '💳' }
+    { id: 'main', name: 'NemAccount', type: 'checking', balance: 6960.90, icon: '💳' }
   ]
 
   const handleTransactionClick = (transaction) => {
@@ -282,7 +281,7 @@ function App() {
         </div>
         
         <div className="balance-section">
-          <div className="total-balance">kr 6.732,63</div>
+          <div className="total-balance">kr 6.832.56</div>
           <div className="balance-change positive">
             <span></span>
             <span className="change-amount"></span>
