@@ -953,7 +953,7 @@ function App() {
                 </div>
                 <div className="info-row">
                   <span className="info-label">Fee</span>
-                  <span className="info-value">kr 0.00</span>
+                  <span className="info-value">kr 7.00</span>
                 </div>
                 {details.exchangeRate && (
                   <div className="info-row">
