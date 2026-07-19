@@ -396,7 +396,7 @@ function App() {
               <span className="flow-icon">↓</span>
               <h4>Money In</h4>
             </div>
-            <div className="flow-amount positive">+kr 1400</div>
+            <div className="flow-amount positive">+kr 1.400,00</div>
             <p>This month</p>
           </div>
           <div className="flow-card outgoing">
@@ -404,7 +404,7 @@ function App() {
               <span className="flow-icon">↑</span>
               <h4>Money Out</h4>
             </div>
-            <div className="flow-amount negative">-kr 8,765</div>
+            <div className="flow-amount negative">-kr 337,00</div>
             <p>This month</p>
           </div>
         </div>
