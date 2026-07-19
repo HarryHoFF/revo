@@ -265,7 +265,7 @@ function App() {
         </div>
         
         <div className="balance-section">
-          <div className="total-balance">kr 1.112.36</div>
+          <div className="total-balance">kr 1.112,36</div>
           <div className="balance-change positive">
             <span></span>
             <span className="change-amount"></span>
