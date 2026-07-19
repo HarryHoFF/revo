@@ -248,7 +248,7 @@ function App() {
       <div className="header">
         <div className="header-top">
           <div className="profile-avatar">
-            <div className="avatar-letter">R</div>
+            <div className="avatar-letter">L</div>
           </div>
           <div className="search-bar">
             <span className="search-icon">🔍</span>
