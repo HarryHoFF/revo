@@ -160,8 +160,8 @@ function App() {
       <div className="pin-entry-container">
         <div className="pin-entry-content">
           <div className="app-logo">
-            <div className="logo-icon">R</div>
-            <h1 className="app-name">Revolut</h1>
+            <div className="logo-icon">L</div>
+            <h1 className="app-name">Lunar</h1>
           </div>
           
           <div className="pin-section">
