@@ -22,7 +22,9 @@ function App() {
 
   // Danish transactions with 48 entries
   const transactions = [
-      { id: 1, merchant: 'REMA 1000', amount: -38.30, date: '2025-09-05', category: 'Shopping', type: 'card' },
+    { id: 9, merchant: 'SB Tankstelle', amount: -194.77, date: '2026-07-19', category: 'Transport', type: 'card' },
+    { id: 15, merchant: 'Ines Ehlerts', amount: +200.00, date: '2026-07-19', category: 'Income', type: 'card' },
+    { id: 1, merchant: 'REMA 1000', amount: -38.30, date: '2025-09-05', category: 'Shopping', type: 'card' },
     { id: 36, merchant: 'Spar', amount: -86.65, date: '2025-09-04', category: 'Shopping', type: 'card' },
     { id: 15, merchant: 'Ines Ehlerts', amount: -9700.00, date: '2025-09-04 (priority)', category: 'Transfer', type: 'transfer' },
     { id: 15, merchant: 'Ines Ehlerts', amount: +9700.00, date: '2025-09-04', category: 'Transfer', type: 'transfer' },
