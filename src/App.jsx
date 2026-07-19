@@ -396,7 +396,7 @@ function App() {
               <span className="flow-icon">↓</span>
               <h4>Money In</h4>
             </div>
-            <div className="flow-amount positive">+kr 12,450</div>
+            <div className="flow-amount positive">+kr 1400</div>
             <p>This month</p>
           </div>
           <div className="flow-card outgoing">
@@ -563,12 +563,12 @@ function App() {
       <div className="activity-summary">
         <div className="summary-card">
           <h4>Total Income</h4>
-          <div className="summary-amount positive">+kr 16,750</div>
+          <div className="summary-amount positive">+kr 1.400,00</div>
           <p>This month</p>
         </div>
         <div className="summary-card">
           <h4>Total Expenses</h4>
-          <div className="summary-amount negative">-kr 14,234</div>
+          <div className="summary-amount negative">-kr 337,00</div>
           <p>This month</p>
         </div>
       </div>
