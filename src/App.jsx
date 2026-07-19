@@ -66,7 +66,7 @@ function App() {
   }
 
   const accounts = [
-    { id: 'main', name: 'Lunar', type: 'checking', balance: 6732.36, icon: '💳' }
+    { id: 'main', name: 'Lunar', type: 'checking', balance: 1112.36, icon: '💳' }
   ]
 
   const handleTransactionClick = (transaction) => {
